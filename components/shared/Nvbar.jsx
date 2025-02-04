@@ -22,7 +22,7 @@ const Nvbar = ({handleLogout,user}) => {
            <Nav.Link as={Link} to="/" style={{color:"black"}}>Explore</Nav.Link>
           </Nav>
 
-          <Form>
+          <Form className='nav-search'>
              <Row>
               <Col xs="auto">
               <Form.Control

@@ -210,6 +210,12 @@
     }
     
   }
+
+  @media(max-width:777px){
+    .nav-search{
+      display: none !important;
+    }
+  }
   
   .swiper-button-next::after,
   .swiper-button-prev::after {
