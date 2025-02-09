@@ -267,4 +267,13 @@
    border-radius: 25px !important;
    padding: 0.5rem 3rem 0.5rem 4rem !important;
  }
+
+  /* loadiing */
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    color: #fe424d;
+  }
   
